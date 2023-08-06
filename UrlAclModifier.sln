@@ -1,11 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlAclModifier", "UrlAclModifier\UrlAclModifier.csproj", "{946E6F2D-47D8-49F6-8AD9-D38CB8AA8E2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Austin.HttpApi", "HttpApiWrapper\Austin.HttpApi.csproj", "{58DD7E03-C9CD-4D67-8A8B-0B029FC6CD67}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Austin.Windows", "..\Austin.Windows\Austin.Windows\Austin.Windows.csproj", "{2491D426-D484-4FE9-9B14-3E4BCC3C5037}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{58DD7E03-C9CD-4D67-8A8B-0B029FC6CD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58DD7E03-C9CD-4D67-8A8B-0B029FC6CD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58DD7E03-C9CD-4D67-8A8B-0B029FC6CD67}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2491D426-D484-4FE9-9B14-3E4BCC3C5037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2491D426-D484-4FE9-9B14-3E4BCC3C5037}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2491D426-D484-4FE9-9B14-3E4BCC3C5037}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2491D426-D484-4FE9-9B14-3E4BCC3C5037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
